@@ -1,7 +1,7 @@
 {
   "name": "cgv-bot",
   "version": "2.0.0",
-  "description": "A bookmarklet for booking movie tickets in CGV, automatically",
+  "description": "Bookmarklets for automatically selecting preferred seats at CGV and Megabox",
   "main": "bookmarklet.js",
   "scripts": {
     "test": "node --test",
@@ -14,6 +14,7 @@
   },
   "keywords": [
     "cgv",
+    "megabox",
     "booking",
     "movie",
     "ticket"
